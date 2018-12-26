@@ -1,3 +1,6 @@
 [submodule "uim"]
 	path = uim
 	url = ../uim.git
+[submodule "libhangul"]
+	path = libhangul
+	url = ../libhangul.git
