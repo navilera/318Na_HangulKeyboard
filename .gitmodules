@@ -1,3 +1,6 @@
 [submodule "uim"]
 	path = uim
 	url = ../uim.git
+[submodule "fcitx-hangul"]
+	path = fcitx-hangul
+	url = ../fcitx-hangul.git
