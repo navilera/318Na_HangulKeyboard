@@ -1,0 +1,3 @@
+     ../hangul/hangulctype.c \
+     ../hangul/hangulinputcontext.c \
+     ../hangul/hanja.c

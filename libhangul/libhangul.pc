@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include/hangul-1.0
+
+Name: libhangul
+Description: Hangul hanja input support
+Version: 0.1.0
+Libs: -L${libdir} -lhangul 
+Cflags: -I${includedir}

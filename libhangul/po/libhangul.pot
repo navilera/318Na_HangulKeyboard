@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the libhangul package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: libhangul 0.1.0\n"
+"Report-Msgid-Bugs-To: http://kldp.net/projects/hangul\n"
+"POT-Creation-Date: 2018-12-21 21:14-0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: hangul/hangulinputcontext.c:263
+msgid "Dubeolsik"
+msgstr ""
+
+#: hangul/hangulinputcontext.c:271
+msgid "Dubeolsik Yetgeul"
+msgstr ""
+
+#: hangul/hangulinputcontext.c:279
+msgid "Sebeolsik Dubeol Layout"
+msgstr ""
+
+#: hangul/hangulinputcontext.c:287
+msgid "Sebeolsik 390"
+msgstr ""
+
+#: hangul/hangulinputcontext.c:295
+msgid "Sebeolsik Final"
+msgstr ""
+
+#: hangul/hangulinputcontext.c:303
+msgid "Sebeolsik Noshift"
+msgstr ""
+
+#: hangul/hangulinputcontext.c:311
+msgid "Sebeolsik Yetgeul"
+msgstr ""
+
+#: hangul/hangulinputcontext.c:319
+msgid "Romaja"
+msgstr ""
+
+#: hangul/hangulinputcontext.c:327
+msgid "Ahnmatae"
+msgstr ""
