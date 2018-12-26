@@ -1,0 +1,3 @@
+[submodule "uim"]
+	path = uim
+	url = ../uim.git
