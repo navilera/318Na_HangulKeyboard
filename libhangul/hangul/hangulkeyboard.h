@@ -76,18 +76,18 @@ static const ucschar hangul_keyboard_table_318Na[] = {
     0x003f,     /* 0x3F question:     question mark                  */
     0x0040,     /* 0x40 at:           commercial at                  */
     0x1106,     /* 0x41 A:            choseong mieum                 */
-    0x1172,     /* 0x42 B:            jungseong yu                   */
+    0x11b2,     /* 0x42 B:            jongseong rieul-pieup                   */
     0x110e,     /* 0x43 C:            choseong chieuch               */
     0x110b,     /* 0x44 D:            choseong ieung                 */
     0x1104,     /* 0x45 E:            choseong ssangtikeut           */
     0x1105,     /* 0x46 F:            choseong rieul                 */
     0x1112,     /* 0x47 G:            choseong hieuh                 */
-    0x1169,     /* 0x48 H:            jungseong o                    */
-    0x1163,     /* 0x49 I:            jungseong ya                   */
+    0x11ad,     /* 0x48 H:            jongseong nieun-hieuh                    */
+    0x11b6,     /* 0x49 I:             jongseong rieul-hieuh                   */
 	0x11b9,     /* 0x4A J:            jongseong pieup-sios  		 */
     0x11b0,     /* 0x4B K:            jongseong rieul-kiyeok         */
 	0x003b,     /* 0x4C L:            semicolon                      */
-    0x1173,     /* 0x4D M:            jungseong eu                   */
+    0x11b1,     /* 0x4D M:            jongseong rieul-mieum                   */
     0x116e,     /* 0x4E N:            jungseong u                    */
     0x1164,     /* 0x4F O:            jungseong yae                  */
     0x1168,     /* 0x50 P:            jungseong ye                   */
